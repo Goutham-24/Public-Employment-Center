@@ -10,7 +10,7 @@ class Main {
         int Nsalary, Nworkinghours,s;
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter your Name");
+        System.out.println("Enter Name");
         name = sc.nextLine();
         System.out.println("Enter needed Job Type");
         Njobtype = sc.nextLine();
